@@ -1,5 +1,6 @@
 I added some notes in branch
 I added some notes for master to generate conflict 
-I from master
+
+I am adding again with update
 
 another master update
