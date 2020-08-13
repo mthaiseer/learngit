@@ -1,2 +1,4 @@
 I added notes for master
 I added some notes for master to generate conflict 
+
+I from master
